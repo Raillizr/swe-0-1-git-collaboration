@@ -21,3 +21,6 @@ print(
     "Pigglebottom takes a moment to process those words. . muttering to himself 'There can only be one- just one?' it can all be mine, not shared but MINE"
 )
 print("Pigglebottom turns to Pigshawn Jr., raising his pistol. 'I'm sorry, brother.'")
+print("A shot rings out.. ears ringing Pigshawn falls from out of the cover.. blood spilling from his body. In shock Pigstein is distracted while Pigglebottom aims at him planning to take fire!"
+"'That's enough.' A pressure was felt in the room.. it was their father.. Sheriff Pigshawn Sr."
+)
