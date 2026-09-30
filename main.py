@@ -17,3 +17,4 @@ print("Pigstein stares at the two.. menacingly before dawning his 48. colt actio
 '"It dont gotta be this way PIGStTEIN!"'
 "'There can only be one.'"
 )
+print("Pigglebottom takes a moment to prosses those words. . muttering to himself 'There can only be one- just one?' it can all be mine, not shared but MINE")
