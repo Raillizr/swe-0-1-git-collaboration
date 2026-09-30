@@ -21,7 +21,12 @@ print(
     "Pigglebottom takes a moment to process those words. . muttering to himself 'There can only be one- just one?' it can all be mine, not shared but MINE"
 )
 print("Pigglebottom turns to Pigshawn Jr., raising his pistol. 'I'm sorry, brother.'")
-print("A shot rings out.. ears ringing Pigshawn falls from out of the cover.. blood spilling from his body. In shock Pigstein is distracted while Pigglebottom aims at him planning to take fire!"
-"'That's enough.' A pressure was felt in the room.. it was their father.. Sheriff Pigshawn Sr."
+print(
+    "A shot rings out.. ears ringing Pigshawn falls from out of the cover.. blood spilling from his body. In shock Pigstein is distracted while Pigglebottom aims at him planning to take fire!"
+    "'That's enough.' A pressure was felt in the room.. it was their father.. Sheriff Pigshawn Sr."
 )
-print("NO!! HE WAS MY FAVORITE! WHATS THE MATTER WITH YOU BOYS?! pulling iron on your own brothers, out of jellousy of all things. you all are a family! AND FAMILY IS ABOVE ALL EL- *BANG* silence falls once more, along with Piggleshawn Sr. facing jr on the ground for the last time")
+print(
+    "NO!! HE WAS MY FAVORITE! WHATS THE MATTER WITH YOU BOYS?! pulling iron on your own brothers, out of jealousy of all things. you all are a family! AND FAMILY IS ABOVE ALL EL- *BANG* silence falls once more, along with Piggleshawn Sr. facing jr on the ground for the last time"
+)
+print("'What are we gonna do!?' Pigstein exclaimed.")
+print("TO BE CONTINUED")
