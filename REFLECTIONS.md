@@ -1,6 +1,6 @@
 (1) Where does your code live? Describe (or sketch and include an image of) where your changes exist after each step: after you save the file, after git add, after git commit, after git push, and after your partner runs git pull. At which point can your partner see your work?
 
-Answer:
+Answer: as you save the file, the code lives inside that now saved file localy on your drive and no where else. After you use the git add command, the code is than also added to the staging area, which from what we understand, has all the changes or edits you want to add into the next iteration of your project. once you commit the code, the code is still only on your local computer but saves a snapshot of your code that can be looked at later. Only after you use the git push command does the data move off your computer and into the git repo. from that point, your team can use git pull to save the lastest snapshot into their own local drives.
 
 (2) Your predictions vs. reality. In Round 1, step 5, you each predicted what would happen when Partner B pushed. What did each of you predict, and what actually happened? Using what you know now, explain why git rejected the push. Then explain what git pull did that the push couldn't.
 
