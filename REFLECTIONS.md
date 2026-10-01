@@ -12,7 +12,7 @@ Answer: During round one, the conflict that we had was different settings for ou
 
 (4) Getting unstuck. Describe one moment when something didn't work or didn't match what you expected, in the warm-up or while writing the story. What was the exact message or result? What did you check first (for example git status or git remote -v), and what fixed it?
 
-Answer:
+Answer: The moment that first comes to mind was when Wrane tried making a commit but messed up the exact command. They first put "git commit-M", with a capital M which inst the correct command which than stated an error in the terminal. Mehki than corrected Wrane after noticing the mistake and edited it with a lowercase m and the command properly worked after. 
 
 (5) Commit messages for a team. Look at your commit history on GitHub. Pick the most useful commit message and the least useful one, and rewrite the weak one here (you don't need to change the message on GitHub). Then explain: if five people were working in this repo instead of two, why would clear commit messages and pulling before you start matter even more?
 
