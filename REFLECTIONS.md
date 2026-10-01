@@ -4,7 +4,7 @@ Answer: As you save the file, the code lives inside that now saved file locally 
 
 (2) Your predictions vs. reality. In Round 1, step 5, you each predicted what would happen when Partner B pushed. What did each of you predict, and what actually happened? Using what you know now, explain why git rejected the push. Then explain what git pull did that the push couldn't.
 
-Answer: We all shared the prediction of Partner B's push wouldn't go through and would instead be met with an error letting the person know they are not fully up to date. Instead, it somewhat did push it thourgh in a way, but would show both the first and second commit one on top of the other, letting the person edit or pick which of the two commits they want to stick with. 
+Answer: We all shared the prediction of Partner B's push wouldn't go through and would instead be met with an error letting the person know they are not fully up to date. Instead, it somewhat did push it through in a way, but would show both the first and second commit one on top of the other, letting the person edit or pick which of the two commits they want to stick with. 
 
 (3) Resolving a conflict. Pick one of the two conflicts you resolved (Round 1 or Round 2). How did you and your partner decide what to keep? How did you confirm the resolution was correct before pushing?
 
@@ -17,3 +17,4 @@ Answer: The moment that first comes to mind was when Wrane tried making a commit
 (5) Commit messages for a team. Look at your commit history on GitHub. Pick the most useful commit message and the least useful one, and rewrite the weak one here (you don't need to change the message on GitHub). Then explain: if five people were working in this repo instead of two, why would clear commit messages and pulling before you start matter even more?
 
 Answer: The most descriptive commit message that we felt we had was the one titled "Reflection Questions." This was for when we initially put the reflection questions into our repository. The message is short, to the point, and describes exactly what that update is. Our weakest commit message was one titled "new line." This is very non-descriptive, general, and doesn't clue in other collaborators as to what that commit actually added. We would likely rename this commit to "Story line 5 (Pigstein's Lament)." This describes both where in the file the line is as well as the context of what is happening in the story.
+
