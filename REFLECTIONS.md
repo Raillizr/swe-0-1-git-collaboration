@@ -16,4 +16,4 @@ Answer: The moment that first comes to mind was when Wrane tried making a commit
 
 (5) Commit messages for a team. Look at your commit history on GitHub. Pick the most useful commit message and the least useful one, and rewrite the weak one here (you don't need to change the message on GitHub). Then explain: if five people were working in this repo instead of two, why would clear commit messages and pulling before you start matter even more?
 
-Answer:
+Answer: The most descriptive commit message that we felt we had was the one titled "Reflection Questions." This was for when we initially put the reflection questions into our repository. The message is short, to the point, and describes exactly what that update is. Our weakest commit message was one titled "new line." This is very non-descriptive, general, and doesn't clue in other collaborators as to what that commit actually added. We would likely rename this commit to "Story line 5 (Pigstein's Lament)." This describes both where in the file the line is as well as the context of what is happening in the story.
